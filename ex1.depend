@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524232602 source:e:\ex\lfa\ex1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
